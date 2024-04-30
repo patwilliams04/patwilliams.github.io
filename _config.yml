@@ -1,5 +1,5 @@
 title: Pat Williams # your name (or website title) here
-logo: "/Users/patwilliams/Desktop/headShot.png?raw=true" # your photo (or logo) here
+logo: "/images/headShot.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Edit these links below   
   <br>
@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/patrick-williams0/">LinkedIn</a> 
   <br>
-  <a href="/Users/patwilliams/Downloads/Summer_2024_Resume.pdf">Resume</a>  
+  <a href="/images/Pat_Williams_2024_CV.png?raw=true">Resume</a>  
   <br>
   <a href="https://bowen.finance/" class="btn btn--info">Portfolio</a>  
   <br>
