@@ -1,8 +1,6 @@
-## About Me
+## Bio
 
-What's up? hey\|you
-
-I am an awesome student at Lehigh, you should hire me!
+FILL IN WITH TRUE INTRO YOU GIVE WHEN NETWORKING
 
 <!-- Upload your own photo and change the path -->
 
