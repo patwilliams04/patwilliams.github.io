@@ -15,6 +15,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://github.com/patwilliams04/FinDSCIAssignments2024" class="btn btn--info">Portfolio</a>  
   <br>
+  <a href="https://github.com/patwilliams04/FinDSCIAssignments2024" class="btn btn--info">M&A Project</a>  
+  <br>
   <a href="https://github.com/patwilliams04">GitHub</a> 
   
 theme: jekyll-theme-minimal
